@@ -1,8 +1,0 @@
-com/movile/logic/Application.class
-com/movile/cache/CacheService.class
-com/movile/dao/UsersDAO.class
-com/movile/bin/Main.class
-com/movile/cache/CustomerEntryListener.class
-com/movile/cache/ICacheService.class
-com/movile/logic/BigWideWorld.class
-com/movile/bean/User.class
