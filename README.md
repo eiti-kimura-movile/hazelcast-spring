@@ -1,4 +1,4 @@
-Hazelcast Spring Sample
+Hazelcast Spring Example
 ========================
 
 This is a basic example configuring Hazelcast 3.1 with Spring 3.
@@ -20,4 +20,3 @@ Hazelcast with JMX and Slf4j configuration enabled
 
 Enjoy
 J.P.Eiti Kimura
-
